@@ -107,8 +107,4 @@ Open your browser at **[http://127.0.0.1:5000/](http://127.0.0.1:5000/)**.
 
 This project is licensed under the **MIT License**.
 
----
 
-
-Do you want me to also create a **ready `requirements.txt`** for you so contributors can install everything in one go?
-```
